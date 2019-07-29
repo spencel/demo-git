@@ -1,7 +1,7 @@
 How to Create a Repo on GitHub
 =
 
-You can create many repos.
+Keep in mind that you can create as many repos as you have projects.
 
 1. Create an account on [GitHub](https://github.com/) if you haven't yet.
 2. The repository name should be the name of your project.
